@@ -1,4 +1,4 @@
-# ![](https://github.com/TheTinyCoder/webstack_project/blob/main/client/public/favicon.ico) E-learning
+# <img src="https://github.com/TheTinyCoder/webstack_project/blob/main/client/public/favicon.ico" width="48"> E-learning
 
 
 ## Project Description
